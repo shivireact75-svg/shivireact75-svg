@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/shivireact75-svg/shivireact75-svg/main/assets/profile.png" width="180" style="border-radius: 50%;" alt="Upasana" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D6336C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Upasana+%F0%9F%91%8B;Digital+Marketing+Professional;SEO+%E2%80%A2+Paid+Ads+%E2%80%A2+Content+%E2%80%A2+Social+Media" alt="Typing SVG" />
 
 ### 📣 I help brands grow their online presence — from search and paid campaigns to content and social media.
