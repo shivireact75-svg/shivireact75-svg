@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D6336C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Upasana+%F0%9F%91%8B;Digital+Marketing+Professional;SEO+%E2%80%A2+Paid+Ads+%E2%80%A2+Content+%E2%80%A2+Social+Media" alt="Typing SVG" />
 
-### 📣 I help brands grow their online presence — from search and paid campaigns to content and social media.
+### 📣 Digital Marketing Expert at **Technixio** — helping brands grow their online presence through search, paid campaigns, content, and social media.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-D6336C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixel-perfect-snap-0342.lovable.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanisharma7542@gmail.com)
@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-I'm a Digital Marketing professional with **1+ year of hands-on experience** running and supporting campaigns across search, paid social, and content. I plan and schedule social content, design creatives, run email campaigns, and track what's actually working — and I'm comfortable on the web side too (HTML, CSS, WordPress), so a campaign doesn't stop at the strategy slide; I can build and ship the landing page it needs.
+I'm a Digital Marketing Expert at **Technixio**, with **1+ year of hands-on experience** running and supporting campaigns across search, paid social, and content. I plan and schedule social content, design creatives, run email campaigns, and track what's actually working — and I'm comfortable on the web side too (HTML, CSS, WordPress), so a campaign doesn't stop at the strategy slide; I can build and ship the landing page it needs.
 
 - 🎯 Focus areas: SEO, paid social & search ads, content planning, social media management, email marketing
 - 🎨 Design campaign creatives in Canva and schedule/publish social content with Buffer
