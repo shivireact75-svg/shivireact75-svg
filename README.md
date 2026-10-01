@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivireact75-svg/shivireact75-svg/main/assets/profile.png" width="180" style="border-radius: 50%;" alt="Upasana" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D6336C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Upasana+%F0%9F%91%8B;Digital+Marketing+Professional;SEO+%E2%80%A2+Paid+Ads+%E2%80%A2+Content+%E2%80%A2+Social+Media" alt="Typing SVG" />
 
 ### 📣 I help brands grow their online presence — from search and paid campaigns to content and social media.
@@ -15,9 +13,10 @@
 
 ### 👋 About Me
 
-I'm a Digital Marketing professional with **1+ year of hands-on experience** running and supporting campaigns across search, paid social, and content. I'm also comfortable on the web side — HTML, CSS, and WordPress — so a campaign doesn't stop at the strategy slide; I can actually build and ship the landing page it needs.
+I'm a Digital Marketing professional with **1+ year of hands-on experience** running and supporting campaigns across search, paid social, and content. I plan and schedule social content, design creatives, run email campaigns, and track what's actually working — and I'm comfortable on the web side too (HTML, CSS, WordPress), so a campaign doesn't stop at the strategy slide; I can build and ship the landing page it needs.
 
-- 🎯 Focus areas: SEO, paid social & search ads, content planning, social media management
+- 🎯 Focus areas: SEO, paid social & search ads, content planning, social media management, email marketing
+- 🎨 Design campaign creatives in Canva and schedule/publish social content with Buffer
 - 🛠️ Can independently set up and style a WordPress landing page for a campaign
 - 🌱 Currently sharpening skills in SEO and paid-ads optimization
 - 💬 Ask me about on-page SEO basics, a social content calendar, or a quick WordPress page build
@@ -34,6 +33,7 @@ I'm a Digital Marketing professional with **1+ year of hands-on experience** run
 [![SEO](https://img.shields.io/badge/SEO-00C853?style=for-the-badge&logo=googlesearchconsole&logoColor=white)](#)
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
+[![Buffer](https://img.shields.io/badge/Buffer-168EEA?style=for-the-badge&logo=buffer&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 
 ### 📊 GitHub Stats
